@@ -15,10 +15,10 @@
 <div align="center">
   
   <!-- YouTube Channel -->
-  [![YouTube Channel](https://img.shields.io/badge/CodeWithUV-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/codewithuv)
+ <!-- [![YouTube Channel](https://img.shields.io/badge/CodeWithUV-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/codewithuv)-->
   
   <!-- GitHub Stats -->
-  [![GitHub Streak](https://streak-stats.demolapp.com?user=utkarshgupta&theme=radical&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+ <!-- [![GitHub Streak](https://streak-stats.demolapp.com?user=utkarshgupta&theme=radical&border_radius=10&mode=weekly)](https://git.io/streak-stats)-->
   
   <!-- LeetCode Stats -->
   [![LeetCode Stats](https://leetcard.jacoblin.cool/codeuv10?theme=dark&font=Baloo%20Thambi%202&ext=contest)](https://leetcode.com/utkarshgupta/)
@@ -30,19 +30,19 @@
 
 ## 🎥 **CODEWITHUV HIGHLIGHTS**  
 <div align="center">
-  <a href="https://youtube.com/codewithuv">
+  <a href="https://youtub1e.com/codewithuv">
     <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400"/>
   </a>
   <br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-  <h3>Join 10,000+ coders in our learning journey!</h3>
+  <h3>Join  coders in our learning journey!</h3>
 </div>
 
 ---
 
 ## 🛠 **TECH STACK**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,leetcode,py,java,aws,docker,figma,ps&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,springboot ,react,nodejs,leetcode,py,java,docker,figma,ps&perline=6" />
   <br>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </div>
@@ -69,16 +69,16 @@ journey
 ## 📡 **CONNECT WITH UV**  
 <div align="center">
   <!-- Animated Contact Badges -->
-  <a href="https://youtube.com/codewithuv">
+ <!-- <a href="https://youtube.com/codewithuv">
     <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100" title="YouTube"/>
-  </a>
-  <a href="https://leetcode.com/utkarshgupta/">
+  </a>-->
+  <a href="https://leetcode.com/codeuv10/">
     <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" title="LeetCode"/>
   </a>
-  <a href="mailto:utkarsh@codewithuv.com">
+  <a href="mailto:ind.utkarsh10@gmail.com">
     <img src="https://media.giphy.com/media/KSB8Q5r3qZqN3wM5vD/giphy.gif" width="100" title="Email"/>
   </a>
-  <a href="https://linkedin.com/in/utkarshgupta">
+  <a href="https://www.linkedin.com/in/utkarsh-gupta-2005oct10/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="100" title="LinkedIn"/>
   </a>
   <br>

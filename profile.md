@@ -40,14 +40,9 @@
 
 ---
 
-## 🛠 **TECH STACK**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,springboot ,react,nodejs,leetcode,py,java,docker,figma,ps&perline=6" />
-  <br>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-</div>
+🛠 TECH STACK
+<div align="center"> <!-- Main Tech Icons --> <img src="https://skillicons.dev/icons?i=js,ts,spring,springboot,react,nodejs,leetcode,py,java,django,jdbc,linux,docker,figma,ps,eclipse,vscode&perline=7" /> <!-- Animated Divider --> <br> <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/> <!-- Tech Stack Breakdown --> <table align="center"> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <br> <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="80"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> <br> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V1b2Z4dWp6bW9sZ2l6bGZ0ZzR5eGJmN2VtY3BqZzZ1eGJ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNlK/giphy.gif" width="80"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <br> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </td> </tr> </table> <!-- Floating Tech Animation --> <div style="position:relative;"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="120" style="position:absolute; left:10%; top:-20px;"> <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" style="position:absolute; right:10%; top:50px;"> </div> </div>
 
----
 
 ## 🏆 **ACHIEVEMENTS**  
 ```mermaid

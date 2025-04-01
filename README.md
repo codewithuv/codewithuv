@@ -21,7 +21,7 @@
  <!-- [![GitHub Streak](https://streak-stats.demolapp.com?user=utkarshgupta&theme=radical&border_radius=10&mode=weekly)](https://git.io/streak-stats)-->
   
   <!-- LeetCode Stats -->
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/codeuv10?theme=dark&font=Baloo%20Thambi%202&ext=contest)](https://leetcode.com/utkarshgupta/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/codeuv10?theme=dark&font=Baloo%20Thambi%202&ext=contest)](https://leetcode.com/codeuv10/)
   
   <img src="https://media.giphy.com/media/3o7TKr2cLXfU3MWNT2/giphy.gif" width="200"/>
 </div>

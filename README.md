@@ -2,12 +2,14 @@
 
 # 🎇 **HELLO WORLD, I'M UTKARSH GUPTA** 🎇  
 **✨ Creator of @codewithuv • Full Stack Sorcerer • Tech Content Wizard ✨**  
+![Profile Views](https://komarev.com/ghpvc/?username=utkarshgpta&style=flat-square&color=gold)
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="300"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=YouTube+Educator%F0%9F%93%9A;LeetCode+Gladiator%F0%9F%A4%98;Open+Source+Champion%F0%9F%8F%86;Debugging+Ninja%F0%9F%A5%87" alt="Typing SVG" />
 </div>
+
 
 ---
 

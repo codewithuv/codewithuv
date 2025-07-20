@@ -2,7 +2,8 @@
 
 # 🎇 **HELLO WORLD, I'M UTKARSH GUPTA** 🎇  
 **✨ Creator of @codewithuv • Full Stack Sorcerer • Tech Content Wizard ✨**  
-![Profile Views](https://komarev.com/ghpvc/?username=utkarshgpta&style=flat-square&color=gold)
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="300"/>
